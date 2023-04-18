@@ -1,0 +1,23 @@
+{
+  "name": "discord-rockpapersissors",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkhamCookie/discord-rockpapersissors.git"
+  },
+  "keywords": [],
+  "author": "ArkhamCookie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkhamCookie/discord-rockpapersissors/issues"
+  },
+  "homepage": "https://github.com/ArkhamCookie/discord-rockpapersissors#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
